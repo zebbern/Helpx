@@ -3,7 +3,7 @@
 # -----------------------------
 # Kali Linux Initial Setup Script
 # Version: 1.0.0
-# Author: Your Name
+# Author: zebbern
 # Description: Automates the installation of essential tools and configurations for bug bounty and penetration testing.
 # -----------------------------
 

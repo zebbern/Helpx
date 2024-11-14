@@ -1,12 +1,12 @@
 # AutoKali: Automated Kali Linux/Kali Setup
 
-![License](https://img.shields.io/github/license/zebbern/AutoKali)
-![GitHub stars](https://img.shields.io/github/stars/zebbern/AutoKali?style=social)
-![GitHub forks](https://img.shields.io/github/forks/zebbern/AutoKali?style=social)
+![License](https://img.shields.io/github/license/zebbern/NewKali)
+![GitHub stars](https://img.shields.io/github/stars/zebbern/NewKali?style=social)
+![GitHub forks](https://img.shields.io/github/forks/zebbern/NewKali?style=social)
 
 ## Overview
 
-**AutoKali** automates the setup of Kali Linux, optimizing it for bug bounty hunting and penetration testing. It ensures compatibility, installs essential tools, manages dependencies, and provides a user-friendly interface for managing help topics and scheduled tasks.
+**NewKali** automates the setup of Kali Linux, optimizing it for bug bounty hunting and penetration testing. It ensures compatibility, installs essential tools, manages dependencies, and provides a user-friendly interface for managing help topics and scheduled tasks.
 
 ## Features
 

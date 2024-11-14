@@ -146,7 +146,7 @@ install_python_libraries() {
 
     for LIB in "${PYTHON_LIBS[@]}"; do
         echo "Installing $LIB..."
-        pip3 install "$LIB" || echo "Failed to install $LIB"
+        pipx install "$LIB" || echo "Failed to install $LIB"
     done
     print_success "Python libraries installation complete."
 }
@@ -403,7 +403,6 @@ fix_broken_packages
 cleanup() {
     print_status "Cleaning up unnecessary packages..."
     apt autoremove -y
-    apt clean
 }
 
 cleanup

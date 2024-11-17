@@ -2,6 +2,8 @@
 
 HelpX is a user-friendly, professional tool management script designed to streamline the way you manage, view, and execute commands for your favorite tools. 
 
+### This Tool installes your important kali linux tools!
+
 ## Features
 
 - **Tool Management**: Add, remove, edit, and view tools and their commands effortlessly.

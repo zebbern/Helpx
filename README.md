@@ -16,10 +16,10 @@ HelpX is a user-friendly, professional tool management script designed to stream
 Clone this repository and run the main setup script:
 
 ```bash
-git clone https://github.com/yourusername/helpx.git
-cd helpx
-chmod +x setup.sh
-sudo ./setup.sh
+git clone https://github.com/yourusername/NewKali.git
+cd NewKali
+chmod +x main.sh
+sudo ./main.sh
 ```
 
 ## Usage

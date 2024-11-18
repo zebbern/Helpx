@@ -1,4 +1,4 @@
-# HelpX - Comprehensive Tool Management Helper
+# HelpX - Global Tool Management Helper
 
 HelpX is a user-friendly, professional tool management script designed to streamline the way you manage, view, and execute commands for your favorite tools. 
 

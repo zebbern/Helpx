@@ -20,7 +20,7 @@ Clone this repository and run the main setup script:
 ```bash
 git clone https://github.com/zebbern/NewKali.git
 cd NewKali
-chmod +x main.sh
+chmod +x *.sh
 sudo ./main.sh
 ```
 

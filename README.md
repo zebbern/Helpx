@@ -18,7 +18,7 @@ HelpX is a user-friendly, professional tool management script designed to stream
 Clone this repository and run the main setup script:
 
 ```bash
-git clone https://github.com/zebbern/NewKali.git
+git clone https://github.com/zebbern/Helpx.git
 cd NewKali
 chmod +x *.sh
 sudo ./main.sh

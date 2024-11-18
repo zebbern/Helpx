@@ -57,7 +57,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-For any issues or feedback, please contact [your.email@example.com].
+For any issues or feedback, please create a issue.
 
 ---
 

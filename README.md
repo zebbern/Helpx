@@ -29,7 +29,7 @@ sudo ./main.sh
 To access the help menu, simply type:
 
 ```bash
-helpx help
+helpx
 ```
 
 ### Common Commands

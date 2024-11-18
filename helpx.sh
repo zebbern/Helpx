@@ -371,7 +371,7 @@ gui_menu() {
             "Delete a Help Topic" \
             "List All Help Topics" \
             "Exit" \
-            --height=700 --width=700 2>/dev/null)
+            --height=500 --width=500 2>/dev/null)
 
         # Check if the user closed the dialog
         if [[ $? -ne 0 ]]; then

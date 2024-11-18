@@ -43,6 +43,7 @@ source "$(dirname "$0")/modules/cron.sh"
 
 # Setup Helpx
 source "$(dirname "$0")/modules/helpx.sh"
-
+# Requirements for Helpx
+source "$(dirname "$0")/modules/install_helpx.sh"
 # Cleanup
 # (Assuming there's cleanup logic here)

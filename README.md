@@ -21,9 +21,7 @@ Clone this repository and run the main setup script:
 git clone https://github.com/zebbern/NewKali.git
 cd NewKali
 chmod +x main.sh
-chmod +x install_helpx.sh
 sudo ./main.sh
-sudo ./install_helpx.sh
 ```
 
 ## Usage

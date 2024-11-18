@@ -34,12 +34,11 @@ helpx
 
 ### Common Commands
 
-- **List Tools**: `helpx list`
-- **View Tool Details**: `helpx view <tool_name>`
-- **Add a Tool**: `helpx add <tool_name>`
-- **Remove a Tool**: `helpx remove <tool_name>`
-- **Edit Tool Commands**: `helpx edit <tool_name>`
-- **Update All Tools**: `helpx update`
+- **List Topics**: `helpx list`
+- **View Topic Information**: `helpx <name>`
+- **Add a Topic**: `helpx create <name>`
+- **Remove a Topic**: `helpx delete <name>`
+- **Edit Topic**: `helpx edit <name>`
 
 ### Example
 

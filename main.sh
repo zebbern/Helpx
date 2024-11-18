@@ -23,9 +23,6 @@ trap 'print_error "An unexpected error occurred. Exiting..."; exit 1;' ERR
 # Validate dependencies
 source "$(dirname "$0")/dependencies.sh"
 
-# Install dependencies
-source "$(dirname "$0")/dependencies.sh"
-
 # Install Python libraries
 source "$(dirname "$0")/python.sh"
 

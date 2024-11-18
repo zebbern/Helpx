@@ -9,7 +9,7 @@ HelpX is a user-friendly, professional tool management script designed to stream
 - **Tool Management**: Add, remove, edit, and view tools and their commands effortlessly.
 - **Command Execution**: Run predefined commands for tools with a single command.
 - **User-Friendly**: Intuitive interface with colored output for better readability.
-- **Customizable**: Easily configure and extend tools via a configuration file (`~/.helpx.conf`).
+- **Customizable**: Easily configure and extend tools via a configuration file (`main.sh`).
 - **Batch Updates**: Automatically update all managed tools with their latest configurations.
 - **Enhanced Usability**: Supports detailed usage instructions and interactive menus.
 

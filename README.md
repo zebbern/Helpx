@@ -22,6 +22,9 @@ git clone https://github.com/zebbern/Helpx.git
 cd Helpx
 chmod +x *.sh
 sudo ./main.sh
+
+You may need to run this again in case it skipped a command
+sudo ./main.sh
 ```
 
 ## Usage

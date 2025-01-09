@@ -23,8 +23,8 @@ cd Helpx
 chmod +x *.sh
 sudo ./main.sh
 ```
-```bash
 You may need to run this again in case it skipped a command
+```bash
 sudo ./main.sh
 ```
 

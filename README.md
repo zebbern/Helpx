@@ -19,7 +19,7 @@ Clone this repository and run the main setup script:
 
 ```bash
 git clone https://github.com/zebbern/Helpx.git
-cd NewKali
+cd Helpx
 chmod +x *.sh
 sudo ./main.sh
 ```
